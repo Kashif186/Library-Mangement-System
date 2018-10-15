@@ -5,6 +5,12 @@ books, members or staff and provide the ability to manage them using a computer.
 for this database which can be found within the folder of the application. Three users were implemented into the system which 
 were members of the library, the librarians and the admins.
 
+Screenshots of the application:
+![image](https://user-images.githubusercontent.com/23744207/46979024-5c936400-d0c8-11e8-8265-433de873cd80.png)
+![image](https://user-images.githubusercontent.com/23744207/46979075-7e8ce680-d0c8-11e8-8ddb-3b2ce379d864.png)
+![image](https://user-images.githubusercontent.com/23744207/46979095-919fb680-d0c8-11e8-8b17-cdc1af9cd35e.png)
+![image](https://user-images.githubusercontent.com/23744207/46979118-a419f000-d0c8-11e8-882d-984ebfe4de70.png)
+
 Requirements:
 Java - https://www.java.com/en/download/
 
